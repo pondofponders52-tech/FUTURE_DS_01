@@ -1,6 +1,10 @@
 # FUTURE_DS_01
 # Repository created for Task 1 of the Data Science & Analytics Internship at Future Interns
 ---------------------------------------------------------------------------------------------
+## 📊Dashboard Overview
+<img width="1650" height="816" alt="superstore_reportpage1" src="https://github.com/user-attachments/assets/f0e9b860-4799-494d-9ca0-e396812136fb" />
+<img width="1612" height="814" alt="superstore_reportpage2" src="https://github.com/user-attachments/assets/6c3c77c2-2cab-4f05-b097-c40a918a1577" />
+
 # Superstore Sales Analysis (Power BI Report) - Executive Summary (Indian Format)
 # Business Objective
 This analysis evaluates Superstore's sales performance across products, categories, regions, and time periods (2011-2014). The dashboard helps identify top products, seasonal trends, and profitability drivers for MIS reporting and business decisions.
